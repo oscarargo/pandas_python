@@ -187,6 +187,8 @@ Este informe presenta un análisis exploratorio exhaustivo de los datos de la ca
      <img width="1800" height="1400" alt="image" src="https://github.com/user-attachments/assets/1f37ebee-033b-4a57-9bf5-033ee90de127" />
 
      <img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/7b98d5a0-a924-4b7c-b72c-d771fe48efda" />
+     <img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/7abb203c-4d0a-4fcf-9d3a-79766985259c" />
+
 
 
 
