@@ -1,7 +1,7 @@
 # 📊 Análisis de Campaña de Marketing Bancario y Perfilado de Clientes
 
 ## 📄 Descripción
-Este repositorio contiene un análisis exhaustivo de datos de una campaña de marketing de un banco portugués.  
+Este repositorio contiene un análisis exhaustivo de datos de una campaña de marketing de un banco.  
 El objetivo es **identificar los factores clave** que influyen en la suscripción de un cliente, aplicando limpieza de datos, ingeniería de características, análisis exploratorio (EDA) y validación estadística.
 
 ---
