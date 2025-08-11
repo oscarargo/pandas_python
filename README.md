@@ -210,7 +210,7 @@ Este informe presenta un análisis exploratorio exhaustivo de los datos de la ca
    
    - Síntesis Final: El "Score de Interés"
 Para consolidar todos estos hallazgos, se construyó un "Score de Interés" basado en reglas. Este puntaje combina los factores más influyentes (edad, profesión, resultado anterior, etc.).
-(Aquí insertarías el Gráfico Final del Score de Interés)
+
 El gráfico demuestra de forma concluyente que este score es capaz de diferenciar claramente entre los clientes que se suscriben y los que no, validando la fuerza combinada de nuestras conclusiones.
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/33ec29b1-5f2c-4e03-95db-c75ba6ee3b4c" />
 
