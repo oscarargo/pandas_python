@@ -183,15 +183,25 @@ Este informe presenta un análisis exploratorio exhaustivo de los datos de la ca
 **Hallazgos clave:**
 1. **El Perfil Demográfico Importa, pero no como se esperaba**:  
    - Más éxito en jóvenes (estudiantes) y seniors (jubilados).  
-   - el nivel de ingreso no es el factor más decisivo, aunque es estadísticamente significativo,
+   - el nivel de ingreso no es el factor más decisivo, aunque es estadísticamente significativo.
+     <img width="1800" height="1400" alt="image" src="https://github.com/user-attachments/assets/1f37ebee-033b-4a57-9bf5-033ee90de127" />
+
+     <img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/7b98d5a0-a924-4b7c-b72c-d771fe48efda" />
+
+
 
 2. **El Comportamiento Durante la Campaña es el Factor Más Predictivo**:  
    - Duración de llamada = mejor predictor; es el indicador más fuerte de interés. Las llamadas exitosas son, en promedio, más del doble de largas.  
    - Exceso de contactos reduce conversión; La mayoría de las suscripciones ocurren en los primeros 3 contactos. Un número alto de contactos se asocia fuertemente con una respuesta negativa.
-           
+     
+     <img width="1800" height="800" alt="image" src="https://github.com/user-attachments/assets/b72deed8-703b-4741-89c8-ba411cb3adb1" />
+
 
 3. **Historial pasado**:  
    - Clientes con `poutcome = success` → >65% conversión. Este segmento, aunque pequeño, representa la oportunidad más segura y rentable.
+  
+   - <img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/b5fcb608-d982-4cdf-8969-674009878d69" />
+
      
 4. **Score de interés**:
    
@@ -199,6 +209,11 @@ Este informe presenta un análisis exploratorio exhaustivo de los datos de la ca
 Para consolidar todos estos hallazgos, se construyó un "Score de Interés" basado en reglas. Este puntaje combina los factores más influyentes (edad, profesión, resultado anterior, etc.).
 (Aquí insertarías el Gráfico Final del Score de Interés)
 El gráfico demuestra de forma concluyente que este score es capaz de diferenciar claramente entre los clientes que se suscriben y los que no, validando la fuerza combinada de nuestras conclusiones.
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/33ec29b1-5f2c-4e03-95db-c75ba6ee3b4c" />
+
+5. **Mapa de correlaciones**
+   <img width="1200" height="1000" alt="image" src="https://github.com/user-attachments/assets/58115c08-0200-40f3-a283-5d2babddd420" />
+
   
 ## Conclusiones
 
