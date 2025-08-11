@@ -202,11 +202,11 @@ El gráfico demuestra de forma concluyente que este score es capaz de diferencia
   
 ## Conclusiones
 
-    • El éxito de la campaña está fuertemente segmentado por perfil generacional (Jóvenes/Seniors).
+    - El éxito de la campaña está fuertemente segmentado por perfil generacional (Jóvenes/Seniors).
     
-    • La calidad de la interacción (medida en duración) y una estrategia de no-insistencia son más importantes que los factores demográficos tradicionales como los ingresos.
+    - La calidad de la interacción (medida en duración) y una estrategia de no-insistencia son más importantes que los factores demográficos tradicionales como los ingresos.
     
-    • Los clientes con un historial de conversión positivo son el activo más valioso para futuras campañas.
+    - Los clientes con un historial de conversión positivo son el activo más valioso para futuras campañas.
 ---
 
 ## 💡 Recomendaciones
